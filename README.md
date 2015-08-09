@@ -1,5 +1,13 @@
 # state_machine_ai
+this is based on concepted learned from the book
+
+Beginning Python Games Development with pygame second edition
+
 08/09/2015 day 1 concept and blocked out files
+
+08/09/2015 day 1 can create multiple resources to collect and create multiple seperate storage locations. The brain can choose which action to take and then finish the process. ex kill then take dead body to graveyard, find coins and bring them to bank, get grain and bring it to a stroage silo. 
+
+08/09/2015 day 1 gathering and storage works
 
 Create a state machine to control the citzens of town based on random combination of citzen types.
 
@@ -44,7 +52,7 @@ cooks
 	feed
 		citzens
 
-Turn materials into weapong:
+Turn materials into weapons:
 
 forger
 	weapons
